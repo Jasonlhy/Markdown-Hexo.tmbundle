@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{% codeblock %}
-  $2
+$1
 {% endcodeblock %}</string>
 	<key>name</key>
 	<string>Insert Code Block</string>

@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{% codeblock lang:${1:name} %}
-  $2
+$2
 {% endcodeblock %}</string>
 	<key>name</key>
 	<string>Insert Code Block with language</string>
